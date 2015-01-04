@@ -1,0 +1,24 @@
+<?php /* Smarty version Smarty-3.1.18, created on 2014-06-26 22:58:22
+         compiled from "C:\site\gozilla.si\smarty_templates\templates\index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:309353ac896eb1b460-46366980%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'cc2a3477ecd78095592dd21a088b5c871b9a742b' => 
+    array (
+      0 => 'C:\\site\\gozilla.si\\smarty_templates\\templates\\index.tpl',
+      1 => 1401512499,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '309353ac896eb1b460-46366980',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_53ac896eb463e9_38248310',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_53ac896eb463e9_38248310')) {function content_53ac896eb463e9_38248310($_smarty_tpl) {?>apidfuhvpiaupuiahfuia
+adfoija[oisdfj[oais
+afgao[ijg[oiajgio[a]]]]]<?php }} ?>
